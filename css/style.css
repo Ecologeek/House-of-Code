@@ -24,15 +24,22 @@ footer {
 /* Définition des propriétés des éléments de l'en-tête */
 
 #logo {
-    
+    position: absolute;
+    top: 0px;
+    left: calc(50% - (450px/2));
+    z-index: 1;
 }
 
 #title {
-    
+    position: relative;
+    height: 100px;
 }
 
 #title h1{
-    
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 3em);
+    z-index: 0;
 }
 
 #menu {
