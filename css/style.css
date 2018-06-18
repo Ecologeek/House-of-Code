@@ -82,7 +82,7 @@ h1 {
 /* Définition des propriétés des éléments du corps de page */
 
 #accueil {
-    
+    padding: 0px;
 }
 
 #accueil img {
