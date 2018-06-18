@@ -6,15 +6,19 @@ body {
 }
 
 header {
-    
+    position: relative;
+    width: 100%;
+    text-align: center;
 }
 
 main {
-    
+    position: relative;
+    width: 100%;
 }
 
 footer {
-    
+    position: relative;
+    width: 100%;
 }
 
 /* Définition des propriétés des éléments de l'en-tête */
