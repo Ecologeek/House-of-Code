@@ -75,6 +75,8 @@ h1 {
 }
 
 #realise-par {
-    
+    padding: 10px;
+    text-align: center;
+    background: lightgray;
+    color: white;
 }
-
