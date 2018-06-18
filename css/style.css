@@ -92,6 +92,19 @@ h1 {
     color: white;
 }
 
+#qui-sommes-nous {
+    background-color: #83B518;
+    color: white;
+}
+
+#qui-sommes-nous h1 {
+    color: white;
+}
+
+#desc-courte {
+    font-size: 1.5em;
+}
+
 #newsletter {
     background-color: #F7DAC6
 }
