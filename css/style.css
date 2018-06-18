@@ -92,3 +92,13 @@ h1 {
     color: white;
 }
 
+#newsletter {
+    background-color: #F7DAC6
+}
+
+#newsletter form {
+    width: 20em;
+    margin-left: 20px;
+    text-align: right;
+}
+
