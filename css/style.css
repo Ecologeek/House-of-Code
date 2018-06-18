@@ -35,6 +35,10 @@ section content {
     justify-content: space-around;
 }
 
+section content article{
+    padding: 10px;
+}
+
 h1 {
     text-align: center;
     font-family: 'Lobster';
