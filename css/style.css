@@ -29,13 +29,13 @@ section {
     padding: 20px;
 }
 
-section content {
+.flex {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 
-section content article{
+.flex article{
     padding: 10px;
 }
 
