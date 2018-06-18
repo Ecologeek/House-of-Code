@@ -51,8 +51,17 @@ h1 {
     z-index: 0;
 }
 
-#menu {
-    
+#menu ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
 }
 
 /* Définition des propriétés des éléments du corps de page */
